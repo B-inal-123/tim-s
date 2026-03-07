@@ -6,5 +6,5 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:1,
-http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1290298&extension=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=125434&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://cord-cutter.net:8080/drmajones@gmail.com/J2cg4hzx4s/5371
